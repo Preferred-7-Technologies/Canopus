@@ -1,0 +1,17 @@
+PyQt5==5.15.9
+pyaudio==0.2.13
+numpy==1.24.3
+pydantic==2.4.2
+pydantic-settings==2.0.3
+python-dotenv==1.0.0
+requests==2.31.0
+SQLAlchemy==2.0.21
+cryptography==41.0.4
+pynput==1.7.6
+importlib-metadata==4.13.0
+vosk==0.3.45
+spacy==3.7.1
+fuzzywuzzy[speedup]==0.18.0
+python-Levenshtein==0.21.1
+croniter==1.4.1
+psutil==5.9.5
