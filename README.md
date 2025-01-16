@@ -398,7 +398,7 @@ The technical details, architecture, and innovations of Canopus are documented i
 
 ## License
 
-Licensed under the MIT License. See [LICENSE](LICENSE) for details.
+Licensed under the DAOSL License. See [LICENSE](LICENSE) for details.
 
 ## Acknowledgments
 
