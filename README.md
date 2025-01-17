@@ -74,23 +74,7 @@ Canopus is a sophisticated, distributed voice assistant platform engineered spec
     - Crash recovery
     - Detailed logging
 
-### Development Tools Integration
 
-- **IDE Support**
-    - Visual Studio Code integration
-    - JetBrains IDEs support
-    - Sublime Text plugin
-    - Custom IDE extension API
-- **Version Control Integration**
-    - Git operations via voice commands
-    - Intelligent commit message generation
-    - Code review automation
-    - Branch management assistance
-- **CI/CD Pipeline Integration**
-    - Jenkins pipeline voice control
-    - GitHub Actions integration
-    - GitLab CI support
-    - Automated deployment triggers
 
 ## System Architecture
 
